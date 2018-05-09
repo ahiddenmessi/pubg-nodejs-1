@@ -1,0 +1,19 @@
+{
+  "name": "PUBGRadarV2",
+  "version": "2.0.0",
+  "dependencies": {
+    "cap": "^0.2.0",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-conditional-get": "^2.0.0",
+    "koa-etag": "^3.0.0",
+    "koa-mount": "^3.0.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "object-assign": "^4.1.1",
+    "opn": "^5.3.0",
+    "p-by-p": "^0.1.0",
+    "pino": "^4.16.1",
+    "string_decoder": "^1.1.1"
+  }
+}
